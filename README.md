@@ -72,11 +72,12 @@
 *   **2nd Place** in **CVPR 2024** Workshop of Autonomous Driving - *Track on Occupancy and Flow*
     <br/>[<img src="https://img.shields.io/badge/Report-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">](https://arxiv.org/pdf/2407.01436) [<img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github">](https://github.com/cdb342/ALOcc)
 
-<br/>
+---
 
+### 🐍 Coding Activity
 <!-- 贪吃蛇动画 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cdb342/cdb342/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/cdb342/cdb342/output/github-contribution-grid-snake.svg" />
 </div>
 <div align="center">
 <a href="https://mapmyvisitors.com/web/1c15l"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=UogmwI4EaVSc9nUChSGSTyJya_R71cIttbqBfmOvDMc&cl=ffffff" /></a>
