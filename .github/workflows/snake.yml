@@ -1,14 +1,9 @@
 name: Generate Snake
 
 on:
-  # 每天北京时间午夜 (UTC 16:00) 自动运行
   schedule:
     - cron: "0 16 * * *" 
-  
-  # 允许手动触发
   workflow_dispatch:
-  
-  # 当有 push 到 main 分支时触发 (方便测试)
   push:
     branches:
     - main
@@ -21,11 +16,9 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # 1. 检出代码
       - name: Checkout
         uses: actions/checkout@v3
 
-      # 2. 生成贪吃蛇文件
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk/svg-only@v3
         with:
@@ -33,12 +26,15 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          # 注意这里：改成了 GH_TOKEN，才能看到私有仓库的提交
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # 3. 将生成的文件推送到 output 分支
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
+          # 这里推送到分支，依然使用默认 Token 即可
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
