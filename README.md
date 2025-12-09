@@ -74,7 +74,12 @@
 
 <br/>
 
+<!-- 贪吃蛇动画 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cdb342/cdb342/output/github-contribution-grid-snake-dark.svg" />
+</div>
 <div align="center">
 <a href="https://mapmyvisitors.com/web/1c15l"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=UogmwI4EaVSc9nUChSGSTyJya_R71cIttbqBfmOvDMc&cl=ffffff" /></a>
 </div>
 <br/>
+
