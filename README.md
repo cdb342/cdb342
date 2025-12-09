@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/cdb342">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=34495E&center=true&vCenter=true&width=600&lines=Ph.D+Student+at+University+of+Macau;Focus+on+Spatio-Temporal+Scene+Understanding;Video-Centric+3D+Vision;Zero-Shot+Learning+%26+Vision-Language+Models" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=34495E&center=true&vCenter=true&width=600&lines=Focus+on+Spatio-Temporal+Scene+Understanding;Video-Centric+3D+Vision;Zero-Shot+Learning+%26+Vision-Language+Models" alt="Typing SVG" />
   </a>
 </div>
 
