@@ -80,7 +80,6 @@
   <img src="https://raw.githubusercontent.com/cdb342/cdb342/output/github-contribution-grid-snake.svg" />
 </div>
 <div align="center">
-<a href="https://mapmyvisitors.com/web/1c15l"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=UogmwI4EaVSc9nUChSGSTyJya_R71cIttbqBfmOvDMc&cl=ffffff" /></a>
+<a href='https://mapmyvisitors.com/web/1c15l'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=320&t=tt&d=UogmwI4EaVSc9nUChSGSTyJya_R71cIttbqBfmOvDMc'/></a>
 </div>
-<br/>
 
