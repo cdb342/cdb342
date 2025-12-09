@@ -13,7 +13,6 @@
   [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Dubing%20Chen-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=68XD2YQAAAAJ&hl=zh-CN)
   [![University](https://img.shields.io/badge/Affiliation-University%20of%20Macau-005CA1?style=for-the-badge&logo=google-academic&logoColor=white)](https://www.um.edu.mo/)
   
-  <br/> <br/>
   
   👋 **Hi there!** I am a researcher focusing on **Computer Vision** and **Machine Learning**. 
   <br/>
@@ -61,20 +60,17 @@
   <br/>
   [<img src="https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobe-acrobat&logoColor=white">](https://www.ijcai.org/proceedings/2022/0114.pdf) [<img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github">](http://github.com/cdb342/IJCAI-2022-ZLA)
 
-<br/>
 
 ---
 
-### 🏆 Honors & Competitions
+### 🏆 Competitions
 
 *   **1st Place** in **CVPR 2025** Workshop of Autonomous Driving - *AV2 Scenario Mining Challenge*
     <br/>[<img src="https://img.shields.io/badge/Report-PDF-red?style=flat-square&logo=adobe-acrobat&logoColor=white">](https://neeharperi.com/files/zeekr_umcv_techreport_cvprw25.pdf) [<img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github">](https://github.com/Ian0926/SM-Agent)
 *   **2nd Place** in **CVPR 2024** Workshop of Autonomous Driving - *Track on Occupancy and Flow*
     <br/>[<img src="https://img.shields.io/badge/Report-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">](https://arxiv.org/pdf/2407.01436) [<img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github">](https://github.com/cdb342/ALOcc)
 
----
-
-
+<br/>
 
 <div align="center">
 <a href="https://mapmyvisitors.com/web/1c15l"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=UogmwI4EaVSc9nUChSGSTyJya_R71cIttbqBfmOvDMc&cl=ffffff" /></a>
