@@ -1,16 +1,85 @@
-## Hi there 👋
+<!-- Header 区域：使用波浪动态背景，配色调整为深蓝/紫风格，突显学术感 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:4ca1af&height=280&section=header&text=Dubing%20Chen&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Ph.D%20Student%20@%20University%20of%20Macau&descAlignY=55&descAlign=62" />
+</div>
 
-<!--
-**cdb342/cdb342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 动态打字介绍：宏观化研究方向 -->
+<div align="center">
+  <a href="https://github.com/cdb342">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=34495E&center=true&vCenter=true&width=600&lines=Ph.D+Student+at+University+of+Macau;Focus+on+Spatio-Temporal+Scene+Understanding;Video-Centric+3D+Vision;Zero-Shot+Learning+%26+Vision-Language+Models" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  <!-- 社交与学术链接徽章 -->
+  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Dubing%20Chen-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=68XD2YQAAAAJ&hl=zh-CN)
+  [![University](https://img.shields.io/badge/Affiliation-University%20of%20Macau-005CA1?style=for-the-badge&logo=google-academic&logoColor=white)](https://www.um.edu.mo/)
+  
+  <br/> <br/>
+  
+  👋 **Hi there!** I am a researcher focusing on **Computer Vision** and **Machine Learning**. 
+  <br/>
+  My long-term goal is to build **General World Models** with inherent **Spatial Intelligence**. Currently, I explore **Spatio-Temporal Representation Learning** to enable machines to perceive, understand, and predict dynamic 3D environments from video streams.
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📝 Selected Publications
+
+<!-- ICCV 2025 Paper 1 -->
+- **[ICCV 2025] Semantic Causality-Aware Vision-Based 3D Occupancy Prediction**
+  <br/> **Dubing Chen**, Huan Zheng, Yucheng Zhou, Xianfei Li, Wenlong Liao, Tao He, Pai Peng, Jianbing Shen
+  <br/>
+  [<img src="https://img.shields.io/badge/Paper-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">](https://arxiv.org/pdf/2509.08388)
+
+<!-- ICCV 2025 Paper 2 -->
+- **[ICCV 2025] ALOcc: Adaptive Lifting-based 3D Semantic Occupancy and Cost Volume-based Flow Prediction**
+  <br/> **Dubing Chen**, Jin Fang, Wencheng Han, Xinjing Cheng, Junbo Yin, Chenzhong Xu, Fahad Shahbaz Khan, Jianbing Shen
+  <br/>
+  [<img src="https://img.shields.io/badge/Paper-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">](https://arxiv.org/pdf/2411.07725) [<img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github">](https://github.com/cdb342/ALOcc)
+
+<!-- CVPR 2025 -->
+- **[CVPR 2025] Rethinking Temporal Fusion with A Unified Gradient Descent View for 3D Semantic Occupancy Prediction**
+  <br/> **Dubing Chen**, Huan Zheng, Jin Fang, Xingping Dong, Xianfei Li, Wenlong Liao, Tao He, Pai Peng, Jianbing Shen
+  <br/>
+  [<img src="https://img.shields.io/badge/Paper-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">](https://arxiv.org/pdf/2504.12959) [<img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github">](https://github.com/cdb342/gdfusion)
+
+<!-- IJCAI 2024 -->
+- **[IJCAI 2024] Evolutionary Generalized Zero-Shot Learning** *(Long Oral)*
+  <br/> **Dubing Chen**, Chenyi Jiang, Haofeng Zhang
+  <br/>
+  [<img src="https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobe-acrobat&logoColor=white">](https://www.ijcai.org/proceedings/2024/0070.pdf) [<img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github">](https://github.com/cdb342/EGZSL)
+
+<!-- AAAI 2023 -->
+- **[AAAI 2023] Deconstructed Generation-Based Zero-Shot Model**
+  <br/> **Dubing Chen**, Yuming Shen, Haofeng Zhang, Philip H.S. Torr
+  <br/>
+  [<img src="https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobe-acrobat&logoColor=white">](https://ojs.aaai.org/index.php/AAAI/article/download/25102/24874) [<img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github">](https://github.com/cdb342/DGZ)
+
+<!-- IJCAI 2022 -->
+- **[IJCAI 2022] Zero-Shot Logit Adjustment**
+  <br/> **Dubing Chen***, Yuming Shen*, Haofeng Zhang, Philip H.S. Torr
+  <br/>
+  [<img src="https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobe-acrobat&logoColor=white">](https://www.ijcai.org/proceedings/2022/0114.pdf) [<img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github">](http://github.com/cdb342/IJCAI-2022-ZLA)
+
+<br/>
+
+---
+
+### 🏆 Honors & Competitions
+
+*   **1st Place** in **CVPR 2025** Workshop of Autonomous Driving - *AV2 Scenario Mining Challenge*
+    <br/>[<img src="https://img.shields.io/badge/Report-PDF-red?style=flat-square&logo=adobe-acrobat&logoColor=white">](https://neeharperi.com/files/zeekr_umcv_techreport_cvprw25.pdf) [<img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github">](https://github.com/Ian0926/SM-Agent)
+*   **2nd Place** in **CVPR 2024** Workshop of Autonomous Driving - *Track on Occupancy and Flow*
+    <br/>[<img src="https://img.shields.io/badge/Report-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">](https://arxiv.org/pdf/2407.01436) [<img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github">](https://github.com/cdb342/ALOcc)
+
+---
+
+
+
+<div align="center">
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=UogmwI4EaVSc9nUChSGSTyJya_R71cIttbqBfmOvDMc&cl=ffffff&w=a"></script>
+</div>
+<br/>
