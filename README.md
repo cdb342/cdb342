@@ -7,14 +7,16 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=34495E&center=true&vCenter=true&width=600&lines=Focus+on+Spatio-Temporal+Scene+Understanding;Video-Centric+3D+Vision;Zero-Shot+Learning+%26+Vision-Language+Models" alt="Typing SVG" />
   </a>
 </div>
-
 <div align="center">
   
   [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Dubing%20Chen-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=68XD2YQAAAAJ&hl=zh-CN)
   [![University](https://img.shields.io/badge/Affiliation-University%20of%20Macau-005CA1?style=for-the-badge&logo=google-academic&logoColor=white)](https://www.um.edu.mo/)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dobbin.chen@gmail.com)
   
   
-  👋 **Hi there!** I am a researcher focusing on **Computer Vision** and **Machine Learning**. 
+  👋 **Hi there!** I am a **third-year Ph.D. Student** at the **University of Macau**.
+  <br/> 
+  My research focuses on **Computer Vision** and **Machine Learning**. 
   <br/>
   My long-term goal is to build **General World Models** with inherent **Spatial Intelligence**. Currently, I explore **Spatio-Temporal Representation Learning** to enable machines to perceive, understand, and predict dynamic 3D environments from video streams.
   
