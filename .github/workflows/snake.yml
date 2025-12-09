@@ -19,7 +19,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: generate-snake-game-from-github-contribution-grid
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -27,14 +27,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          # 注意这里：改成了 GH_TOKEN，才能看到私有仓库的提交
+          # ⚠️ 关键点：这一步必须使用 GH_TOKEN 才能读取私有仓库
+          # 这里的变量名必须叫 GITHUB_TOKEN，但值要填你的 ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          # 这里推送到分支，依然使用默认 Token 即可
+          # 推送代码只需要默认权限，不需要改
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
