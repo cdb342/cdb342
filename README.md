@@ -14,7 +14,7 @@
   [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dobbin.chen@gmail.com)
   
   
-  👋 **Hi there!** I am a **third-year Ph.D. Student** at the **University of Macau**.
+  👋 **Hi there!** I am a **final-year Ph.D. Student** at the **University of Macau**.
   <br/> 
   My research focuses on **Computer Vision** and **Machine Learning**. 
   <br/>
